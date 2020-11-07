@@ -1,5 +1,7 @@
 Welcome to my attempt at creating a day planner!
 
+https://chrisnguyeen.github.io/day-planner/
+
 Here you are able to:
   - Input your plans for your day
   - Save your plan/plans
