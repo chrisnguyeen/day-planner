@@ -6,3 +6,5 @@ Here you are able to:
   - Keep track of your plans with the save button
  
 This application will help provide structure to a busy person's day.
+
+<img src="workday.png">
